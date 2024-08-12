@@ -1,5 +1,6 @@
 # 10X Xcode Keymaps
 
+
 <details><summary><strong>How to Setup</strong></summary>
   
 Download the keybindings file:
@@ -13,7 +14,6 @@ and Move it to:
 replace `YOUR_USERNAME` with your Username on Mac
 
 </details>
-
 
 <details><summary><strong>Vim</strong></summary>
 
@@ -121,6 +121,8 @@ Use Selection for Replace = <kbd>CMD</kbd> + <kbd>SHIFT</kbd>+ <kbd>E</kbd>
 
 Find = <kbd>CMD</kbd> + <kbd>F</kbd>
 
+Find Selected Text in Workspace = <kbd>F4</kbd>
+
 Find In Workspace = <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>F</kbd>
 
 Filter File in Navigator = <kbd>OPT</kbd> + <kbd>F</kbd>
@@ -153,6 +155,8 @@ Find Call Hierarchy = <kbd>CMD</kbd> + <kbd>M</kbd>
 
 Rename = <kbd>F2</kbd>
 
+Edit in All Scope = <kbd>F3</kbd>
+
 Add Missing Abstract Class Overrides = <kbd>OPT</kbd> + <kbd>O</kbd>
 
 Add Missing Protocol Requirements = <kbd>OPT</kbd> + <kbd>I</kbd>
@@ -178,7 +182,6 @@ Move line Down = <kbd>OPT</kbd> + <kbd>J</kbd>
 
 </details>
 
-
 <details><summary><strong>Folding</strong></summary>
 
 Fold = <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>[</kbd>
@@ -188,7 +191,6 @@ Unfold = <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>]</kbd>
 Unfold All = <kbd>CMD</kbd> + <kbd>SHIFT</kbd>+ <kbd>\</kbd>
 
 </details>
-
 
 <details><summary><strong>Font Size</strong></summary>
 
@@ -293,9 +295,3 @@ Unstage Selected Files = <kbd>OPT</kbd> + <kbd>U</kbd>
 Show Code Review = <kbd>OPT</kbd> + <kbd>R</kbd>
 
 </details>
-
-
-
-
-
-
