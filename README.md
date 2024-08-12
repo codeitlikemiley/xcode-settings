@@ -154,9 +154,20 @@ Move lines Up = <kbd>OPT</kbd> + <kbd>K</kbd>
 
 Move line Down = <kbd>OPT</kbd> + <kbd>J</kbd>
 
+
+</details>
+
+
+<details><summary><strong>Folding</strong></summary>
+
 Fold = <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>[</kbd>
 
 Unfold = <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>]</kbd>
+
+</details>
+
+
+<details><summary><strong>Font Size</strong></summary>
 
 Reset Font Size = <kbd>CMD</kbd> + <kbd>0</kbd>
 
@@ -234,57 +245,11 @@ Reveal Changes in Navigator = <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>C</kbd>
 
 Push = <kbd>CMD</kbd> + <kbd>U</kbd>
 
-Pull = <kbd
-
->CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>U</kbd>
+Pull = <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>U</kbd>
 
 </details>
 
-<details><summary><strong>Window Management</strong></summary>
 
-Close Project = <kbd>CMD</kbd> + <kbd>W</kbd>
-
-Close Window = <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>W</kbd>
-
-Toggle Maximize = <kbd>OPT</kbd> + <kbd>SHIFT</kbd> + <kbd>M</kbd>
-
-Full Screen Mode = <kbd>CMD</kbd> + <kbd>CTRL</kbd> + <kbd>F</kbd>
-
-Minimize = <kbd>CMD</kbd> + <kbd>M</kbd>
-
-Maximize = <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>M</kbd>
-
-Minimize All = <kbd>CMD</kbd> + <kbd>OPT</kbd> + <kbd>M</kbd>
-
-Close Editor = <kbd>CMD</kbd> + <kbd>E</kbd>
-
-Switch Windows = <kbd>CMD</kbd> + <kbd>TAB</kbd>
-
-</details>
-
-<details><summary><strong>Keymaps to Explore</strong></summary>
-
-Duplicate Line = <kbd>OPT</kbd> + <kbd>SHIFT</kbd> + <kbd>D</kbd>
-
-Move Line Up = <kbd>CMD</kbd> + <kbd>CTRL</kbd> + <kbd>Arrow Up</kbd>
-
-Move Line Down = <kbd>CMD</kbd> + <kbd>CTRL</kbd> + <kbd>Arrow Down</kbd>
-
-Open Definition to Side = <kbd>CTRL</kbd> + <kbd>OPT</kbd> + <kbd>Arrow Up</kbd>
-
-Scroll Page Up = <kbd>CMD</kbd> + <kbd>Page Up</kbd>
-
-Scroll Page Down = <kbd>CMD</kbd> + <kbd>Page Down</kbd>
-
-Show Changes = <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>C</kbd>
-
-Quick Documentation = <kbd>OPT</kbd> + <kbd>Q</kbd>
-
-Extract Method = <kbd>OPT</kbd> + <kbd>M</kbd>
-
-Open Swift Package = <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>P</kbd>
-
-</details>
 
 
 
