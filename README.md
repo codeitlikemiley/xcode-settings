@@ -1,5 +1,20 @@
 # 10X Xcode Keymaps
 
+<details><summary><strong>How to Setup</strong></summary>
+  
+Download the keybindings file:
+
+`masterpowers.idekeybindings`
+
+and Move it to:
+
+`/Users/YOUR_USERNAME/Library/Developer/Xcode/UserData/KeyBindings`
+
+replace `YOUR_USERNAME` with your Username on Mac
+
+</details>
+
+
 <details><summary><strong>Vim</strong></summary>
 
 Vim Mode = <kbd>OPT</kbd> + <kbd>V</kbd>
