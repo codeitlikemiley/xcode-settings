@@ -117,6 +117,8 @@ Automatically Refresh Canvas = <kbd>SHIFT</kbd> + <kbd>F5</kbd>
 
 Use Selection for Find: <kbd>CMD</kbd> + <kbd>E</kbd>
 
+Use Selection for Replace = <kbd>CMD</kbd> + <kbd>SHIFT</kbd>+ <kbd>E</kbd>
+
 Find = <kbd>CMD</kbd> + <kbd>F</kbd>
 
 Find In Workspace = <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>F</kbd>
@@ -130,6 +132,10 @@ Replace In Workspace = <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>H</kbd>
 Replace All = <kbd>CMD</kbd> + <kbd>Y</kbd>
 
 Replace All In Workspace = <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>Y</kbd>
+
+Find Next = <kbd>CMD</kbd> + <kbd>G</kbd>
+
+Find Previous = <kbd>CMD</kbd> + <kbd>SHIFT</kbd>+ <kbd>G</kbd>
 
 </details>
 
@@ -163,7 +169,7 @@ Re-Indent = <kbd>CMD</kbd> + <kbd>I</kbd>
 
 Format Multiline Code = <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>I</kbd>
 
-Wrap Lines = <kbd>OPT</kbd> + <kbd>W</kbd>
+Split Selection By Lines =  <kbd>OPT</kbd> + <kbd>SHIFT</kbd>+ <kbd>S</kbd>
 
 Move lines Up = <kbd>OPT</kbd> + <kbd>K</kbd>
 
@@ -179,6 +185,8 @@ Fold = <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>[</kbd>
 
 Unfold = <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>]</kbd>
 
+Unfold All = <kbd>CMD</kbd> + <kbd>SHIFT</kbd>+ <kbd>\</kbd>
+
 </details>
 
 
@@ -189,6 +197,20 @@ Reset Font Size = <kbd>CMD</kbd> + <kbd>0</kbd>
 Increase Font Size = <kbd>CMD</kbd> + <kbd>+</kbd>
 
 Decrease Font Size = <kbd>CMD</kbd> + <kbd>-</kbd>
+
+</details>
+
+<details><summary><strong>Multi Select</strong></summary>
+  
+Select Column Up =  <kbd>OPT</kbd> + <kbd>SHIFT</kbd>+ <kbd>J</kbd>
+  
+Select Column Down =  <kbd>OPT</kbd> + <kbd>SHIFT</kbd>+ <kbd>K</kbd>
+
+Select All Symbols = <kbd>CMD</kbd> + <kbd>SHIFT</kbd>+ <kbd>L</kbd> 
+
+Select Next Occurence = <kbd>OPT</kbd> + <kbd>E</kbd>
+
+Select Previous Occurence = <kbd>OPT</kbd> + <kbd>SHIFT</kbd>+ <kbd>E</kbd>
 
 </details>
 
@@ -214,7 +236,7 @@ Jump to Next Issue = <kbd>CMD</kbd> + <kbd>'</kbd>
 
 Jump to Previous Issue = <kbd>CMD</kbd> + <kbd>"</kbd>
 
-Resolve Auto Layout Issues = <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>L</kbd>
+
 
 </details>
 
@@ -224,7 +246,9 @@ New Package = <kbd>OPT</kbd> + <kbd>N</kbd>
 
 New File = <kbd>CMD</kbd> + <kbd>N</kbd>
 
-New Editor = <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>N</kbd>
+New Folder / Group = <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>N</kbd>
+
+Add Package Dependencies = <kbd>OPT</kbd> + <kbd>SHIFT</kbd>+ <kbd>A</kbd>
 
 Expand Macro = <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>M</kbd>
 
@@ -252,15 +276,21 @@ Step Into = <kbd>CMD</kbd> + <kbd>Arrow Right</kbd>
 
 <details><summary><strong>Git</strong></summary>
 
-New Git Repository = <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>G</kbd>
+New Git Repository = <kbd>OPT</kbd> + <kbd>SHIFT</kbd>+ <kbd>G</kbd>
 
-Commit = <kbd>CMD</kbd> + <kbd>G</kbd>
+Commit = <kbd>OPT</kbd> + <kbd>G</kbd>
 
 Reveal Changes in Navigator = <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>C</kbd>
 
 Push = <kbd>CMD</kbd> + <kbd>U</kbd>
 
 Pull = <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>U</kbd>
+
+Stage Selected Files = <kbd>OPT</kbd> + <kbd>S</kbd>
+
+Unstage Selected Files = <kbd>OPT</kbd> + <kbd>U</kbd>
+
+Show Code Review = <kbd>OPT</kbd> + <kbd>R</kbd>
 
 </details>
 
